@@ -8,7 +8,7 @@
 
 ## Wall of Death Inc.
 
-We serve an iOS app "Rocket for bands" which is a platform for those who love Japanese Rock Music.
+We serve an iOS app "Rocket for bands" which is a platform for those who love Japanese Rock Music.<br>
 Available on: https://apps.apple.com/jp/app/id1500148347
 
 <br>
@@ -19,6 +19,8 @@ Available on: https://apps.apple.com/jp/app/id1500148347
 - Swift
 - Rock Music
 - Cats
+
+<br>
 
 ## Finally
 

@@ -1,22 +1,29 @@
 ## Who am I
 
-- Developer of [Rocket for bands](https://apps.apple.com/jp/app/id1500148347)
+- CEO/CTO of [Wall of Death Inc.](https://wall-of-death.com)
 - Infrastructure Engineer
-- CS student in Japan
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masatsch&theme=radical" />
+- CS student
 
 <br>
 
-## Rocket for bands
+## Wall of Death Inc.
 
-Rocket for bands is an iOS application for those who love Japanese Rock Music.
-
-https://apps.apple.com/jp/app/id1500148347
+We serve an iOS app "Rocket for bands" which is a platform for those who love Japanese Rock Music.
+Available on: https://apps.apple.com/jp/app/id1500148347
 
 <br>
 
-## In the Future
+## Love
 
-1. I want to work at AWS as a Software Engineer to research and contribute to Cloud Container Service.
-1. I want to modify `Rocket for bands` to help all Japanese Rock Bands.
+- Cloud Container
+- Swift
+- Rock Music
+- Cats
+
+## Finally
+
+I'm betting my life to contribute to all "artists" using Software Technologies.
+And also I always behave as an artist.
+
+Thanks.
+Masato Tsutsumi

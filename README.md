@@ -24,8 +24,10 @@ Available on: https://apps.apple.com/jp/app/id1500148347
 
 ## Finally
 
-I'm betting my life to contribute to all "artists" using Software Technologies.
+I'm betting my life to contribute to all "artists" using Software Technologies.<br>
 And also I always behave as an artist.
+
+<br>
 
 Thanks.
 Masato Tsutsumi
